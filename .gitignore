@@ -1,0 +1,9 @@
+*.log
+*.dpapi
+.env*
+segredos/
+dados/
+ondas/
+avulsos/
+emissoes/
+repositorio_corporativo/
